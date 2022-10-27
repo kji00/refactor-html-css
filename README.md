@@ -19,7 +19,7 @@ THEN I find a concise, descriptive title
 
 
 HTML:
-I changed majority of <div> tags to something more descriptive of the content that would be held inside. 
+I changed majority of div tags to something more descriptive of the content that would be held inside. 
 
 CSS:
 I moved the order of some CSS element selectors so it flowed with how the HTML elements were in the index.html.
